@@ -117,7 +117,7 @@ export const skillsCategories = [
     id: "design",
     name: "Design",
     icon: "Palette",
-    skills: ["Figma", "Canva", "UI/UX Design", "UX Research", "Wireframing", "Prototyping", "Design Systems"]
+    skills: ["Figma", "Canva","GIMP 3.2.0", "UI/UX Design", "UX Research", "Wireframing", "Prototyping", "Design Systems"]
   },
   {
     id: "frontend",
@@ -147,7 +147,7 @@ export const skillsCategories = [
     id: "tools",
     name: "Tools & Deployment",
     icon: "Wrench",
-    skills: ["Git", "GitHub", "VS Code", "Vercel", "Netlify"]
+    skills: ["Git", "GitHub", "VS Code", "Vercel", "Netlify","Loom", "Atlassian"]
   }
 ];
 
