@@ -286,7 +286,7 @@ export const caseStudiesData = [
     approach: "Research → Problem Definition → UX → Product Structure → UI",
     tags: ["Research", "UX", "UI", "Product Design"],
     links: {
-      design: "https://www.figma.com/design/6XoSK0CUKWahQyQIkbi0d8/SIH26090?t=eCcYRpqIV0GPgJ9A-1",
+      design: "https://www.figma.com",
       caseStudy: "#hunarsangam-modal"
     },
     // Note: User explicitly requested: Do NOT show technical stack for HunarSangam
